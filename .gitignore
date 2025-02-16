@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/EWebShopUI/.vs/EWebShopUI
+/EWebShopUI/.vscode
+/EWebShopUI/obj/Debug
